@@ -13,6 +13,5 @@ The project is valuable for several reasons:
 
 ## Technologies Used
 - HTML, CSS, JavaScript: Frontend development for the website.
-- Webflow: Design and prototyping tool for building responsive web layouts.
-- Firebase: Backend services for user authentication, database management, and notifications.
+- Webflow: Design and prototyping tool for building responsive web layouts..
 

@@ -1,6 +1,6 @@
 # Hackathon-Proyect
 Phoenix´s team proyect for Hackathon, for the Social Responsability track.
-# Happeat: Reducing Food Waste and Alleviating Food Scarcity
+# Happeat
 
 ## What the Project Does
 Happeat is a web platform designed to address the pressing issues of food wastage and food scarcity by facilitating the redistribution of surplus food resources. It connects surplus food providers such as restaurants, supermarkets, and individuals with those in need, enabling the efficient transfer of excess food at discounted prices and good quality.
